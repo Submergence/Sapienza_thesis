@@ -14,11 +14,11 @@ Devices and softwares：
  - VM OS: CentOS 9, CentOS 7.4
 
 Problem tips
- 1.在Parallels Desktop安装CentOS7前需要手动关闭3D加速，否则CPU会占满；
- 2.PD自动下载的OS版本是CentOS9，在Guacamole sever环境配置时会出现很多问题；
- 3.首次使用的CentOS7默认网卡关闭，需要手动打开：https://blog.csdn.net/dw1360585641/article/details/124837383；
- 4.CentOS7中共享步骤之前需要手动安装Parallels tools；
- 5.
+ 1. 在Parallels Desktop安装CentOS7前需要手动关闭3D加速，否则CPU会占满；
+ 2. PD自动下载的OS版本是CentOS9，在Guacamole sever环境配置时会出现很多问题；
+ 3. 首次使用的CentOS7默认网卡关闭，需要手动打开：https://blog.csdn.net/dw1360585641/article/details/124837383；
+ 4. CentOS7中共享步骤之前需要手动安装Parallels tools;
+ 5. 
  
 
 Referenced links:
