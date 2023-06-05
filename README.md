@@ -5,9 +5,10 @@ Steps until now:
  1. 在CentOS9中安装Guacamole sever；
  2. 在CentOS9中安装tomcat8,并开放8080端口；
  3. 在CentOS9中安装Guacamole client，并将目录中bin/target/guacamole.war移动到tomcat/webapps/；
- 4. 在CentOS7中共享文件配置：https://blog.csdn.net/buyueliuying/article/details/78447810?locationNum=2&fps=1
- 5. 在CentOS7中安装Tomcat：https://blog.csdn.net/Siebert_Angers/article/details/127124339
- 6. 
+ 4. 在CentOS7中共享文件配置：https://blog.csdn.net/buyueliuying/article/details/78447810?locationNum=2&fps=1 ；
+ 5. 在CentOS7中安装Tomcat：https://blog.csdn.net/Siebert_Angers/article/details/127124339 ；
+ 6. 在CentOS9中安装Gucamole Client：https://blog.csdn.net/cyx199602/article/details/124576222 ；
+ 7. 
 
 
 Devices and softwares：
